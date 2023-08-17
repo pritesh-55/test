@@ -1,0 +1,3 @@
+Name: Pritesh Srivastava
+Skills: HTML, CSS, JS, Node.js, Express.js, MongoDB, REST APIs, C++, DSA, OOPS, Git, Github
+Email: priteshsrivastava502@gmail.com
